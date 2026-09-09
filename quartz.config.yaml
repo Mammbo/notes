@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Mammbo.github.io/quartz
+  baseUrl: Mammbo.github.io/notes
   ignorePatterns:
     - private
     - templates
