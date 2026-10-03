@@ -105,6 +105,8 @@ _Reading:_ OpenStax [§3.1](https://openstax.org/books/calculus-volume-3/pages
 
 _Resources:_ [lecture slides](https://drew.youngren.nyc/mvc-slides/lec04.html).
 
+[[Lecture 4 - intro to curves]]
+
 ### Tuesday, September 22 — Lecture 5: Motion, Velocity, and Acceleration.
 
 _Reading:_ OpenStax [§3.4](https://openstax.org/books/calculus-volume-3/pages/3-4-motion-in-space-velocity-and-acceleration); Stewart §13.4.
@@ -113,11 +115,15 @@ _Resources:_ [lecture slides](https://drew.youngren.nyc/mvc-slides/lec05.html).
 
 _Due:_ Homework 2.
 
+[[lecture 5 - Motion, Velocity, and acceleration]]
+
 ### Thursday, September 24 — Lecture 6: Arc Length, Reparametrization, and Curvature.
 
 _Reading:_ OpenStax [§3.3](https://openstax.org/books/calculus-volume-3/pages/3-3-arc-length-and-curvature); Stewart §13.3.
 
 _Resources:_ [lecture slides](https://drew.youngren.nyc/mvc-slides/lec06.html).
+
+[[Lecture 6 - Arc length, reparametrization, curvature]]
 
 ## 3.3 Multivariable Differentiation
 

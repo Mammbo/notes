@@ -25,3 +25,8 @@ We will learn the following materials in this course.
 # Notes 
 [[Lecture 1 - Intro to Linear Systems and Matrices & vectors]]
 [[Lecture 2 - rref ]]
+[[Lecture 3 - rank]]
+[[Lecture 4 - linear transformations]]
+[[Lecture 5 - linear transformation in geometry]]
+[[Lecture 6 Matrix multiplication]]
+[[# Lecture 7 — Invertible Linear Maps & Bijections]]

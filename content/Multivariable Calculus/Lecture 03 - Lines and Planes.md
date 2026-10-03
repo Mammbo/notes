@@ -1,5 +1,5 @@
 ![[Screenshot 2026-09-15 at 3.21.10 PM.png]]
-
+![[Screenshot 2026-09-20 at 8.40.46 PM.png]]
 # The Cross Product:
 - Special  Vector product, or cross product in R^3 only.
 - v x w = u

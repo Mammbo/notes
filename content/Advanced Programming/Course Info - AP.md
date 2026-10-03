@@ -23,20 +23,26 @@ The basis of this course is described in [_Follow the River and You Will Find t
 - UNIX CLI basics
 	- [[Lecture notes 01 - CLI Basics]]
 - Compiling & linking
-	- [[Lecture notes 02 - Separate Compilation and Make]]
+	- [[Lecture notes 02 - Separate Compilation and Make, and Git]]
 - Makefile
 - Git
 - Binary number
 - Data types
 - Expressions & statements
+- [[Lecture notes 03- C language basics]]
 - Storage class
 - Process address space
+	[[Lecture Notes 04 - Storage Classes]]
+	
 
 `Unit 2: Pointers and arrays`
-
+ 
 - Pointers
 - Arrays
 - Pointers vs. arrays
+-  [[Lecture notes 05- Pointers]]
+- [[Lecture notes 06- Arrays]]
+- [[Lecture Notes 07 - Heap]]
 
 `Unit 3: Function pointers and structs`
 
